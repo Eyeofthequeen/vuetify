@@ -192,7 +192,7 @@ const messages = {
   en: {
     $vuetify: {
       dataIterator: {
-        rowsPerPageText: 'Items per page:',
+        itemsPerPageText: 'Items per page:',
         pageText: '{0}-{1} of {2}',
       },
     },
@@ -200,7 +200,7 @@ const messages = {
   sv: {
     $vuetify: {
       dataIterator: {
-        rowsPerPageText: 'Element per sida:',
+        itemsPerPageText: 'Element per sida:',
         pageText: '{0}-{1} av {2}',
       },
     },
